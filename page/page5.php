@@ -15,6 +15,11 @@
 		$select_2 = $_POST['select_2'];
         $select_3 = $_POST['select_3'];
         $select_4 = $_POST['select_4'];
+        
+        echo $select_1;
+        echo $select_2;
+        echo $select_3;
+        echo $select_4;
 	}
 	?>
 	

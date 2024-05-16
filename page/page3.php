@@ -13,6 +13,8 @@
 	if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		$select_1 = $_POST['select_1'];
 		$select_2 = $_POST['select_2'];
+        echo $select_1;
+        echo $select_2;
 	}
 	?>
 	

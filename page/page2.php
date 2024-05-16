@@ -12,6 +12,7 @@
 	<?php
 	if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		$select_1 = $_POST['select_1'];
+        echo $select_1;
 	}
 	?>
 	
